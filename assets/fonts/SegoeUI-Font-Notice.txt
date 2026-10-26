@@ -1,0 +1,2 @@
+Segoe UI TrueType font supplied by the project user for this Aurora OS build.
+Segoe UI is a Microsoft trademark. The user/project maintainer is responsible for ensuring the font is used and redistributed only under applicable license terms. This build embeds a rasterized glyph atlas derived from the supplied font and packages the original TTF as a boot asset.
